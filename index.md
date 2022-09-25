@@ -2,7 +2,7 @@
 [Who am i](##Who-am-I-?)
 [Who am i as programmer?](##Who-am-I-as-a-programmer-?)
 
-![This is my face](images/alex.png =x250)
+![This is my face](images/alex.png)
 
 > "oh wow. oh wow. oh wow." 
 > Steve Jobs
@@ -37,6 +37,7 @@ have picked from strongest to top of the list to weakest at the bottom.
 6. javascript/php
 
 Link to my [GitHub Profile](https://github.com/anh010)
+
 [Read me file](README.md)
 
 This is a python snippet I used to query a database 
